@@ -1,3 +1,3 @@
 # UltraIsland
 
-This UE5.1 project demonstrates a simple VR inetraction.
+This UE5.1 project demonstrates a simple interaction in VR.
