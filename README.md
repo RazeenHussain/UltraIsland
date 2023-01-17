@@ -1,3 +1,3 @@
 # UltraIsland
 
-This UE5.1 project demonstrates a simple interaction in VR.
+This UE5.1 project demonstrates a simple interaction in VR using Blueprints.
